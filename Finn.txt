@@ -1,0 +1,13 @@
+PS C:\Users\Finn> mkdir SoftDev1
+PS C:\Users\Finn> cd SoftDev1
+PS C:\Users\Finn\SoftDev1> mkdir Unit01
+PS C:\Users\Finn\SoftDev1> cd Unit01
+PS C:\Users\Finn\SoftDev1\Unit01> notepad file01.txt
+PS C:\Users\Finn\SoftDev1\Unit01> copy file01.txt file02.txt
+PS C:\Users\Finn\SoftDev1\Unit01> mkdir Assignment01
+PS C:\Users\Finn\SoftDev1\Unit01> cd Assignment01
+PS C:\Users\Finn\SoftDev1\Unit01\Assignment01> mkdir Finn
+PS C:\Users\Finn\SoftDev1\Unit01\Assignment01> mv file02.txt Finn
+PS C:\Users\Finn\SoftDev1\Unit01\Assignment01\Finn> cd ..
+PS C:\Users\Finn\SoftDev1\Unit01\Assignment01> cd ..
+PS C:\Users\Finn\SoftDev1\Unit01> rm Assignment01
